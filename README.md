@@ -70,20 +70,37 @@ ___
 
 上記２つの合せ技も存在する
 
+# 他にもたくさん
+
+```
+aaa
+```
 
 
 
 
 
+```
+const great = () => {
+  console.log("Awesome");
+};
+```
 
 
 
+```js
+const great = () => {
+  console.log("Awesome");
+};
+```
 
-
-
-
-
-
+```markdown
+<h4>example.js</h4>
+```js:ファイル名
+const great = () => {
+  console.log("Awesome");
+};
+```
 
 
 
